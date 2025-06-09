@@ -103,4 +103,4 @@ python test2_send.py
 
 The test scripts render 2 random results for human verification. Run this as many times as you want. 
 
-The `send` test scripts send at most only 10 sample emails to the bot email address for safe testing. 
+The `send` test scripts send at most 2 sample emails to the bot email address for safe testing. 
