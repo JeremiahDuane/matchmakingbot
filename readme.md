@@ -1,4 +1,4 @@
-# Christian Matchmaking Bot
+# Matchmaking Python Email Script/Bot
 
 This is a multi-phase python matchmaking system that generates, evaluates, and notifies users of potential romantic matches based on shared preferences and mutual interest.
 
