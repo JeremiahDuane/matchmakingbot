@@ -6,15 +6,17 @@ This is a multi-phase python matchmaking system that generates, evaluates, and n
 
 ```
 christian-matchmaking/
-├── email_utils.py
 ├── .env
+├── email_utils.py
 ├── phase1.py
 ├── phase2.py
-├── phase3.py
 ├── phase2_send.py
+├── phase3.py
 ├── phase3_send.py
-├── phase2_send_test.py
-├── phase3_send_test.py
+├── test2.py
+├── test2_send.py
+├── test3.py
+├── test3_send.py
 ├── README.md
 └── data/
     ├── users.json - paste form data here for phase 1
